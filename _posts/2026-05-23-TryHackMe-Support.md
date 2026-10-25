@@ -44,9 +44,9 @@ We look at the source code and we get a password:
 ![](9.png){: width="2500" height="1300"}
 
 I tried to login with the specialadmin@support.com account but it failed.
-I was stuck here for hours, there were no writeups yet, so I could not look for a hint, I tried a lot of stuff, but the things is the password we got in the config.php was wrong ?? the password that worked is support110 not support@110. This was weird.
+I was stuck here for hours, there were no writeups yet, so I could not look for a hint, I tried a lot of stuff, but the thing is the password we got in the config.php was wrong ?? the password that worked is support110 not support@110. This was weird.
 
-We login as admin and we the first flag
+We login as admin and we get the first flag
 ![](10.png){: width="2500" height="1300"}
 
 ## Second Part
